@@ -12,7 +12,7 @@ from telebot import types
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton, ChatPermissions
 
 # ==================== YAPILANDIRMA ====================
-BOT_TOKEN = "8500439268:AAFWA3NWfOu6Hmdqa6vKsHQ8qDtcKZZDY6Q"
+BOT_TOKEN = "8500439268:AAFYGuVk9sJjc0poBFztlrlrX49j3cczFFY"
 ADMIN_ID = 5633974834  # Senin Telegram ID'n
 
 # Bot Başlangıç Zamanı
